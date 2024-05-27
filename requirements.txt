@@ -1,4 +1,0 @@
-langchain
-ctransformers
-sentence-transformers
-faiss-cpu
